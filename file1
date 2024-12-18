@@ -1,4 +1,7 @@
 // здесь будет код
+
+//
+
 PRINT N'Creating Sales...';
 GO
 CREATE SCHEMA [Sales]
